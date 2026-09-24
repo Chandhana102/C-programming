@@ -1,0 +1,1 @@
+here  i had learned how to store strings and how to initialize and declare the strings
