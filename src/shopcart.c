@@ -14,7 +14,7 @@ int main()
    printf("what is the price for each item: ");
    scanf("%f", &price);
 
-   printf`("how many items would you like to buy: ");
+   printf("how many items would you like to buy: ");
     scanf("%d", &quantity);
 
     total = price * quantity;
